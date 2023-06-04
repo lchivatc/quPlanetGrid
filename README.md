@@ -12,6 +12,8 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
+Recommended node version: 16
+
 ```sh
 npm install
 ```
@@ -32,4 +34,9 @@ npm run build
 
 ```sh
 npm run lint
+```
+### Test with [Vitest](https://vitest.dev/)
+
+```sh
+npm run test
 ```
